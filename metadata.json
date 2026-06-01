@@ -1,0 +1,6 @@
+{
+  "name": "Эмулятор Android 17",
+  "description": "Эмулятор Android 17 для тестирования мобильных приложений. Позволяет создавать, настраивать виртуальные системные разделы и виртуализировать VMX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
